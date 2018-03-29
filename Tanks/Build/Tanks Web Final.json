@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Tanks Project",
+"dataUrl": "Tanks Web Final.data.unityweb",
+"asmCodeUrl": "Tanks Web Final.asm.code.unityweb",
+"asmMemoryUrl": "Tanks Web Final.asm.memory.unityweb",
+"asmFrameworkUrl": "Tanks Web Final.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
